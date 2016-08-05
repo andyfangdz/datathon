@@ -915,7 +915,7 @@ h3 {
  * ==========================
  */
 .header-background {
-  background: url('../images/bg-1.jpg');
+  background-color: #777;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -923,7 +923,6 @@ h3 {
   background-position: center 0;
   background-attachment: fixed;
   background-repeat: 'no-repeat';
-  background-color: #fff;
 }
 .header .section-separator {
   padding-bottom: 140px;
