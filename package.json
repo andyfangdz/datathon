@@ -1,0 +1,22 @@
+{
+  "name": "datathon",
+  "version": "1.0.0",
+  "description": "Datathon: A Data Science Hackathon Hosted by Georgia Tech Undergraduate Consulting Club",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyfangdz/datathon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyfangdz/datathon/issues"
+  },
+  "homepage": "https://github.com/andyfangdz/datathon#readme",
+  "devDependencies": {
+    "gh-pages": "^0.11.0"
+  }
+}
