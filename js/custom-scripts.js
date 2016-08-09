@@ -369,7 +369,7 @@ $(function() {
      * =========================================
      */       
     $('.count_down-1').countdown({
-        end_time: "2015/10/21 14:27:28 +0600",
+        end_time: "2016/10/22 09:00:00 -0500",
         wrapper: function(unit){
             var wrpr = $('<div></div>').
                 addClass(unit.toLowerCase()+'_wrapper').
@@ -388,7 +388,7 @@ $(function() {
         }
     });
     $('.count_down-2').countdown({
-        end_time: "2015/10/21 14:27:28 +0600",
+        end_time: "2016/10/22 09:00:00 -0500",
         wrapper: function(unit){
             var wrpr = $('<div></div>').
                 addClass(unit.toLowerCase()+'_wrapper').
@@ -403,7 +403,7 @@ $(function() {
 
             $('<span class="counter style_all"></span>').appendTo(background);
             $('<span class="title">'+unit+'</span>').appendTo(background);
-            return wrpr;
+            return wrpr;   
         }
     });
 
