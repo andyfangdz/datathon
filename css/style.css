@@ -2535,7 +2535,7 @@ footer .footer-body .copyright p .fa {
  * ===================================
  */
 .countdown-background {
-    background: url('../images/subscribe-bg.jpg');
+    /*background: url('../images/subscribe-bg.jpg');*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
